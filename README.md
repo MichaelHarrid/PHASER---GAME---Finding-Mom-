@@ -1,1 +1,2 @@
-# PHASER---GAME---Finding-Mom-
+# PHASER-GAME-Finding-Mom
+![](images/logo.png)
