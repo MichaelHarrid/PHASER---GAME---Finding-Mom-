@@ -78,7 +78,7 @@ Life
 Free to play and Anyone can play.
 
 # Platforms and Monetization
-This game will be a free web-based game with in game ads in .swf format. Therefore, it can be supported by most operating systems like Windows and Mac.
+This game will be a free web-based game with in game ads in .swf format. Therefore, it can be supported by most operating systems like Windows and Mac..
 
 
 
